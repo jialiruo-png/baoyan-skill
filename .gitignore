@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.python-version
+
+# 本地生成产物（含真实申请材料，不进仓库）
+outputs/
+assets/input-notes.md
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 临时文件
+*.tmp
+*.log
