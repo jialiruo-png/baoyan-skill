@@ -9,9 +9,11 @@ __pycache__/
 *.pyo
 .python-version
 
-# 本地生成产物（含真实申请材料，不进仓库）
-outputs/
+# 本地输入材料（含真实申请人材料，不入仓）
 assets/input-notes.md
+
+# outputs/ 内 Office 临时锁文件
+outputs/.~*
 
 # 编辑器
 .idea/

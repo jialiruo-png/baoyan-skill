@@ -89,9 +89,10 @@ python build_statement.py
 
 ## 隐私
 
-仓库内不包含任何真实申请人的个人陈述、套瓷信成稿或个人材料。
+仓库内不包含任何真实申请人的个人材料。
 - `examples/` 中的 9 篇案例均为脱敏后的结构参考样本
-- `outputs/`、`assets/input-notes.md` 等本地生成产物已在 `.gitignore` 中排除
+- `outputs/` 中的生成稿件为虚构人物、虚构经历的演示样本，不涉及真实申请人
+- `assets/input-notes.md` 等本地输入材料已在 `.gitignore` 中排除
 - `build_statement.py` 中的 `SECTIONS` 为占位示例，使用时请替换为自己的内容
 
 ## License
